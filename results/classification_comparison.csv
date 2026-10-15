@@ -1,0 +1,6 @@
+model,accuracy,macro precision,macro recall,macro F1
+SqueezeNet,0.864,0.768,0.708,0.732
+EfficientNet,0.84,0.691,0.726,0.703
+GoogLeNet,0.704,0.633,0.669,0.63
+CNN,0.753,0.617,0.616,0.614
+Dense,0.16,0.255,0.325,0.122

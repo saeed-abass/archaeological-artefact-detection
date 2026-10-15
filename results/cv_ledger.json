@@ -1,0 +1,82 @@
+{
+  "A_baseline|fold0": {
+    "config": "A_baseline",
+    "fold": 0,
+    "mAP@50": 0.636,
+    "mAP@50:95": 0.614,
+    "precision": 0.7055,
+    "recall": 0.5554
+  },
+  "A_baseline|fold1": {
+    "config": "A_baseline",
+    "fold": 1,
+    "mAP@50": 0.6934,
+    "mAP@50:95": 0.6789,
+    "precision": 0.6325,
+    "recall": 0.6468
+  },
+  "A_baseline|fold2": {
+    "config": "A_baseline",
+    "fold": 2,
+    "mAP@50": 0.6564,
+    "mAP@50:95": 0.6287,
+    "precision": 0.6247,
+    "recall": 0.6124
+  },
+  "A_baseline|fold3": {
+    "config": "A_baseline",
+    "fold": 3,
+    "mAP@50": 0.8129,
+    "mAP@50:95": 0.7937,
+    "precision": 0.7688,
+    "recall": 0.6991
+  },
+  "A_baseline|fold4": {
+    "config": "A_baseline",
+    "fold": 4,
+    "mAP@50": 0.6862,
+    "mAP@50:95": 0.6579,
+    "precision": 0.7045,
+    "recall": 0.5909
+  },
+  "C_strong_aug|fold0": {
+    "config": "C_strong_aug",
+    "fold": 0,
+    "mAP@50": 0.6501,
+    "mAP@50:95": 0.6242,
+    "precision": 0.7028,
+    "recall": 0.5607
+  },
+  "C_strong_aug|fold1": {
+    "config": "C_strong_aug",
+    "fold": 1,
+    "mAP@50": 0.6363,
+    "mAP@50:95": 0.6213,
+    "precision": 0.6439,
+    "recall": 0.581
+  },
+  "C_strong_aug|fold2": {
+    "config": "C_strong_aug",
+    "fold": 2,
+    "mAP@50": 0.6324,
+    "mAP@50:95": 0.6049,
+    "precision": 0.6037,
+    "recall": 0.6573
+  },
+  "C_strong_aug|fold3": {
+    "config": "C_strong_aug",
+    "fold": 3,
+    "mAP@50": 0.8112,
+    "mAP@50:95": 0.7919,
+    "precision": 0.8037,
+    "recall": 0.6705
+  },
+  "C_strong_aug|fold4": {
+    "config": "C_strong_aug",
+    "fold": 4,
+    "mAP@50": 0.6573,
+    "mAP@50:95": 0.6312,
+    "precision": 0.6802,
+    "recall": 0.5729
+  }
+}

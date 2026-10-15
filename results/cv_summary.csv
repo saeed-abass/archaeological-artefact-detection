@@ -1,0 +1,3 @@
+config,mean,std,n
+A_baseline,0.6746,0.0712,5
+C_strong_aug,0.6547,0.0773,5
